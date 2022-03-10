@@ -37,8 +37,7 @@ Here are some ideas to get you started:
 
 ## Languages and Tools
 
-![Werberty GitHub stats](https://github-readme-stats.vercel.app/api?username=Werberty&show_icons=true&theme=blue-green)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Werberty&layout=compact&theme=blue-green)](https://github.com/Werberty/github-readme-stats)
+![Werberty GitHub stats](https://github-readme-stats.vercel.app/api?username=Werberty&show_icons=true&theme=blue-green) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Werberty&layout=compact&theme=blue-green)](https://github.com/Werberty/github-readme-stats)
 ----------------------------------------------------------------------------------
 - Thanks for visiting.
 

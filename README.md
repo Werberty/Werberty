@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 :outbox_tray: Goals for 2022: create new projects and find a job.
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Werberty)](https://github.com/Werberty)   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/werberty-alexandre-b8aa0a230/)](https://www.linkedin.com/in/werberty-alexandre-b8aa0a230/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)]()
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white&link=https://github.com/Werberty)](https://github.com/Werberty)   [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/werberty-alexandre-b8aa0a230/)](https://www.linkedin.com/in/werberty-alexandre-b8aa0a230/) [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://criarmeulink.com.br/u/1651153743)
 
 ----------------------------------------------------------------------------------
 
@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ----------------------------------------------------------------------------------
 
-[![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+[![](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) [![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)](https://www.djangoproject.com/)
 
 Thanks for visiting.
 

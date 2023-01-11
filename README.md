@@ -38,7 +38,7 @@
 <br>
   
 <div>
-<a href="https://www.linkedin.com/in/seu-usuário-linkedln-aqui" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+<a href="https://www.linkedin.com/in/werberty-alexandre-b8aa0a230/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 <a href="https://github.com/Werberty" target="_blank"><img src="https://img.shields.io/badge/-Github-000?style=for-the-badge&logo=Github&logoColor=white" target="_blank"></a>
 <a href = "mailto:werberty.alexandre@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>  
 </div>

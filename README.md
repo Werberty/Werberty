@@ -5,7 +5,7 @@
 
 :books: Atualmente estudo Python e Django.
 
-:outbox_tray: Metas para 2023: criar novos projetos e evoluir.
+:outbox_tray: Metas para 2024: criar novos projetos e evoluir.
   
 <br>
 <div>

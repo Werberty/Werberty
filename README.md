@@ -3,7 +3,7 @@
 
 ## Olá! Eu sou Werberty!
 
-:books: Atualmente trabalho como Desenvolvedor Python,Django e REST Framework.
+:books: Atualmente trabalho como Desenvolvedor Python, Django e REST Framework.
   
 <br>
 <div>

@@ -3,9 +3,7 @@
 
 ## Olá! Eu sou Werberty!
 
-:books: Atualmente trabalho com Python e Django.
-
-:outbox_tray: Metas para 2024: criar novos projetos e evoluir.
+:books: Atualmente trabalho como Desenvolvedor Python,Django e REST Framework.
   
 <br>
 <div>
